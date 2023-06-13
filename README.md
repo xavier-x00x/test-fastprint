@@ -5,7 +5,17 @@ Ini adalah dokumentasi untuk Tes Junior Programmer menggunakan framework CodeIgn
 Project ini menggunakan Template [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE)
 
 ## Untuk Tampilan Web Sebagai Berikut
+*Tampilan Daftar Produk
+!["index Presentation"](https://github.com/xavier-x00x/test-fastprint/blob/ea3356d0c5bf2c8884b4c6cf3aed12391045be6c/assets/img/index.PNG "index Presentation")
 
+*Tampilan Tambah Produk
+!["add Presentation"](https://github.com/xavier-x00x/test-fastprint/blob/ea3356d0c5bf2c8884b4c6cf3aed12391045be6c/assets/img/add.PNG "add Presentation")
+
+*Tampilan Edit Produk
+!["edit Presentation"](https://github.com/xavier-x00x/test-fastprint/blob/ea3356d0c5bf2c8884b4c6cf3aed12391045be6c/assets/img/edit.PNG "edit Presentation")
+
+*Tampilan Hapus Produk
+!["delete Presentation"](https://github.com/xavier-x00x/test-fastprint/blob/ea3356d0c5bf2c8884b4c6cf3aed12391045be6c/assets/img/delete.PNG "delete Presentation")
 
 ## Mengatur Controller Produk
 
